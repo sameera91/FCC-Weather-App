@@ -1,0 +1,67 @@
+#screen {
+  border: 3px solid;
+  padding-top: 20px;
+  padding-bottom: 25px;
+  padding-right: 10px;
+  padding-left: 10px;
+  margin-top: 25px;
+  height: 600px;
+  width: 350px;
+  border-radius: 25px;
+
+  background: -webkit-linear-gradient(#6699FF, #993366);
+  
+  background: -o-linear-gradient(#6699FF, #993366);
+  
+  background: -moz-linear-gradient(#6699FF, #993366);
+  
+  background: linear-gradient(#6699FF, #993366);
+  
+}
+
+#city {
+  padding: 8px;
+  display: inline-block;
+  font-size: 35px;
+  font-family: Calibri;
+  color: white;
+  text-transform: uppercase;
+}
+
+#description {
+  padding: 8px;
+  display: inline-block;
+  font-size: 23px;
+  font-family: Calibri;
+  color: white;
+}
+
+#temp {
+  padding: 8px;
+  display: inline-block;
+  font-size: 60px;
+  font-family: Calibri;
+  color: white;
+}
+
+#icon {
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 55px;
+  width: 55px;
+}
+
+#button {
+  height: 32px;
+  width: 145px;
+}
+
+#humidity {
+  color: white;
+  font-family: Calibri;
+}
+
+#pressure {
+  color: white;
+  font-family: Calibri;
+}
